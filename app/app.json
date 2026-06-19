@@ -44,12 +44,7 @@
         }
       ]
     ],
-    "scheme": "spenda",
-    "extra": {
-      "eas": {
-        "projectId": "spenda-app"
-      }
-    }
+    "scheme": "spenda"
   }
 }
 
