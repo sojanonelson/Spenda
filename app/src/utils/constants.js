@@ -1,5 +1,5 @@
 // App constants
-export const API_BASE_URL = 'http://192.168.1.4:5000/api'; // Your machine's local IP
+export const API_BASE_URL = 'https://spenda-toy9.onrender.com/api';
 
 export const CATEGORIES = [
   { name: 'Breakfast', icon: '🍳', color: '#F59E0B' },
